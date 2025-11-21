@@ -1,0 +1,29 @@
+Loan Prediction
+
+Introduction
+
+The Loan Default Prediction dataset contains borrower information, loan details, and repayment outcomes. It is structured to support predictive modeling tasks, especially classification models to determine the likelihood of default.
+
+About this Dataset
+
+This dataset provides financial and demographic attributes of borrowers, commonly used in loan risk analysis and credit scoring. It is ideal for machine learning projects where the target is to classify loans as default or non-default.
+Content
+
+The dataset includes the following columns:
+
+•	- Loan_ID
+•	- Gender
+•	- Married
+•	- Dependents
+•	- Education
+•	- Self_Employed
+•	- ApplicantIncome
+•	- CoapplicantIncome
+•	- LoanAmount
+•	- Loan_Amount_Term
+•	- Credit_History
+•	- Property_Area
+
+Acknowledgment
+
+This dataset originates from publicly available loan data sources such as Lending Club. It has been curated to highlight the most relevant features for loan default prediction tasks.
