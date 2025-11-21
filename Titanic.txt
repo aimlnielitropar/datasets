@@ -1,0 +1,33 @@
+Introduction
+
+The Titanic dataset is a widely used dataset in the field of data science and machine learning, primarily for classification and predictive modeling tasks. It contains information about passengers aboard the RMS Titanic, a British passenger liner that tragically sank on its maiden voyage in April 1912. The dataset provides insights into the demographics, travel details, and survival outcomes of the passengers. This dataset is particularly valuable for exploring survival analysis, feature engineering, and predictive modeling techniques.
+
+About the Dataset
+
+The dataset consists of multiple variables capturing passenger information:
+•	PassengerId: Unique identifier for each passenger.
+•	Pclass: Passenger travel class (1st, 2nd, or 3rd).
+•	Name: Name of the passenger.
+•	Sex: Gender of the passenger.
+•	Age: Age of the passenger in years.
+•	SibSp: Number of siblings or spouses aboard.
+•	Parch: Number of parents or children aboard.
+•	Ticket: Ticket number.
+•	Fare: Fare paid for the ticket.
+•	Cabin: Cabin number assigned to the passenger.
+•	Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+•	Survived: Survival status (0 = No, 1 = Yes).
+
+Context
+
+The sinking of the RMS Titanic remains one of the most infamous maritime disasters in history. The dataset provides a historical record of the passengers and their survival outcomes, allowing researchers and enthusiasts to perform data analysis on factors that might have influenced survival rates. For example, passenger class, age, gender, and family size are commonly analyzed to understand survival probabilities.
+
+Content
+
+The dataset contains 891 rows (passengers) and 12 columns representing demographic, travel, and survival information. The dataset is split into training and test subsets on Kaggle for predictive modeling competitions, with the training dataset containing the Survived column for supervised learning purposes.
+
+Acknowledgement
+
+The Titanic dataset was originally compiled and made available through the Kaggle platform. We acknowledge Kaggle and the contributors for providing this dataset, which is widely used for educational purposes and machine learning exercises.
+Source: Kaggle Titanic Dataset
+

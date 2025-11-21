@@ -1,0 +1,17 @@
+Used Car Price Prediction Dataset
+Introduction
+The Used Car Price Prediction dataset contains information about used cars, including their specifications and selling prices. It is designed to be used for predictive modeling, enabling machine learning algorithms to estimate the price of a used car based on various features.
+About this Dataset
+This dataset provides a collection of car listings with essential attributes that influence the price of a used car. The dataset is commonly used for regression and machine learning projects to build price prediction systems.
+Content
+The dataset includes the following columns:
+- brand: The brand/manufacturer of the car (e.g., Ford, Audi, Hyundai)
+- model: The specific model of the car
+- year: The manufacturing year of the car
+- mileage: The mileage driven by the car
+- fuel: The type of fuel used (e.g., Petrol, Diesel, Hybrid)
+- transmission: The transmission type (e.g., Manual, Automatic)
+- owner: Number of previous owners
+- price: The selling price of the car
+Acknowledgment
+This dataset was derived from used car listings collected from online marketplaces. It has been cleaned to include only the most relevant features for predicting car prices. Special thanks to the contributors of open-source automotive datasets on Kaggle and other platforms.
